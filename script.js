@@ -8,12 +8,9 @@ $(document).ready(
                 for(let i =1; i <=  21;i++){
                     $("#div").append(`
                     <br>
-                    
-                    <div class="card m-2 p-2" style="width:300px">
-                        <img class="card-img-top" src="./Photos/P1 (${i}).jpg" alt="Card image" style="width:100%">
-                    </div>
-                    
-                    <br>`);
+                    <img class="img-fluid" style="object-fit:cover;width:300px" src="./Photos/P1 (${i}).jpg" alt="Card image" style="width:100%">
+                    <br>`
+                    );
                 }
             }
         );
