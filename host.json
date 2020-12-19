@@ -1,0 +1,50 @@
+{
+    "mood_index":
+            {	"type": "mood_index",
+            "title": {
+                "en": "This is how you mood swinged throgh 2020"
+            },
+            "caption": {
+                "en": "50% Happy, 25% Romantic & 25% Sad"
+            },
+            "shareTitle": {
+                "en": "This is how you mood swinged throgh 2020"
+            },
+            "shareCaption": {
+                "en": "50% Happy, 25% Romantic & 25% Sad"
+            },
+            "backgroundImageURL": "",
+            "actionTextColor": "",
+            "actionButtonBackgroundColor": "",
+            "actionText": {
+                "en": "Share With Friend"
+            },
+            "logoURL": "",
+            "hashtag": "",
+            "moodCategories": [
+                {
+                    "name": "Happy",
+                    "image": "",
+                    "backgroundColor": "yellow",
+                    "maleBackgroundImageURL": "babu_rao",
+                    "femaleBackgroundImageURL": "kareena",
+                    "percentage": 25
+                },
+                {
+                    "name": "Romantic",
+                    "image": "",
+                    "backgroundColor": "pink",
+                    "maleBackgroundImageURL": "srk",
+                    "femaleBackgroundImageURL": "alia",
+                    "percentage": 80
+                },
+                {
+                    "name": "Sad",
+                    "image": "",
+                    "backgroundColor": "",
+                    "maleBackgroundImageURL": "ranbir",
+                    "femaleBackgroundImageURL": "anuska",
+                    "percentage": 70
+                }
+            ]}
+}
