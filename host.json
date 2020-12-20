@@ -97,5 +97,48 @@
                 "numShares": 78
             }
         ]
+    },
+
+    "sticker_usage" :{
+        "type": "sticker_usage",
+        "title": {
+            "en": "You made people laugh by sharing 98 stickers",
+            "hi": "आपने 98 स्टिकर साझा करके लोगों को हँसाया"
+        },
+        "caption": {
+            "en": "Your Top Stickers of 2020"
+        },
+        "shareTitle": {
+            "en": "You made people laugh by sharing 98 stickers",
+        },
+        "shareCaption": {
+            "en": "Your Top Stickers of 2020"
+        },
+        "backgroundImageURL": "",
+        "actionTextColor": "",
+        "actionButtonBackgroundColor": "",
+        "actionText": {
+            "en": "Share With Friend"
+        },
+        "logoURL": "",
+        "hashtag": "",
+        "stickers": [
+            {
+                "id": 45,
+                "numShares": 55
+            },
+            {
+                "id": 46,
+                "numShares": 55
+            },
+            {
+                "id": 47,
+                "numShares": 55
+            },
+            {
+                "id": 48,
+                "numShares": 55
+            }
+        ]
     }
 }
