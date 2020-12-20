@@ -1,50 +1,101 @@
 {
-    "mood_index":
-            {	"type": "mood_index",
-            "title": {
-                "en": "This is how you mood swinged throgh 2020"
+    "mood_index": {
+        "type": "mood_index",
+        "title": {
+            "en": "This is how you mood swinged throgh 2020"
+        },
+        "caption": {
+            "en": "50% Happy, 25% Romantic & 25% Sad"
+        },
+        "shareTitle": {
+            "en": "This is how you mood swinged throgh 2020"
+        },
+        "shareCaption": {
+            "en": "50% Happy, 25% Romantic & 25% Sad"
+        },
+        "backgroundImageURL": "",
+        "actionTextColor": "",
+        "actionButtonBackgroundColor": "",
+        "actionText": {
+            "en": "Share With Friend"
+        },
+        "logoURL": "",
+        "hashtag": "",
+        "moodCategories": [
+            {
+                "name": "Happy",
+                "image": "😁",
+                "backgroundColor": "yellow",
+                "maleBackgroundImageURL": "babu_rao",
+                "femaleBackgroundImageURL": "kareena",
+                "percentage": 25
             },
-            "caption": {
-                "en": "50% Happy, 25% Romantic & 25% Sad"
+            {
+                "name": "Romantic",
+                "image": "😍",
+                "backgroundColor": "pink",
+                "maleBackgroundImageURL": "srk",
+                "femaleBackgroundImageURL": "alia",
+                "percentage": 80
             },
-            "shareTitle": {
-                "en": "This is how you mood swinged throgh 2020"
+            {
+                "name": "Sad",
+                "image": "😞",
+                "backgroundColor": "",
+                "maleBackgroundImageURL": "ranbir",
+                "femaleBackgroundImageURL": "anuska",
+                "percentage": 70
+            }
+        ]
+    },
+    "emoji_usage": {
+        "type": "emoji_usage",
+        "title": {
+            "en": "You spread happniess by sharing 234 emojis"
+        },
+        "caption": {
+            "en": "Your Top Emojis of 2020"
+        },
+        "shareTitle": {
+            "en": "You spread happniess by sharing 234 emojis"
+        },
+        "shareCaption": {
+            "en": "Your Top Emojis of 2020"
+        },
+        "backgroundImageURL": "",
+        "actionTextColor": "",
+        "actionButtonBackgroundColor": "",
+        "actionText": {
+            "en": "Share With Friend"
+        },
+        "logoURL": "",
+        "hashtag": "",
+        "emojis": [
+            {
+                "name": "",
+                "image": "",
+                "numShares": 23
             },
-            "shareCaption": {
-                "en": "50% Happy, 25% Romantic & 25% Sad"
+            {
+                "name": "",
+                "image": "",
+                "numShares": 23
             },
-            "backgroundImageURL": "",
-            "actionTextColor": "",
-            "actionButtonBackgroundColor": "",
-            "actionText": {
-                "en": "Share With Friend"
+            {
+                "name": "",
+                "image": "",
+                "numShares": 43
             },
-            "logoURL": "",
-            "hashtag": "",
-            "moodCategories": [
-                {
-                    "name": "Happy",
-                    "image": "😁",
-                    "backgroundColor": "yellow",
-                    "maleBackgroundImageURL": "babu_rao",
-                    "femaleBackgroundImageURL": "kareena",
-                    "percentage": 25
-                },
-                {
-                    "name": "Romantic",
-                    "image": "😍",
-                    "backgroundColor": "pink",
-                    "maleBackgroundImageURL": "srk",
-                    "femaleBackgroundImageURL": "alia",
-                    "percentage": 80
-                },
-                {
-                    "name": "Sad",
-                    "image": "😞",
-                    "backgroundColor": "",
-                    "maleBackgroundImageURL": "ranbir",
-                    "femaleBackgroundImageURL": "anuska",
-                    "percentage": 70
-                }
-            ]}
+            {
+                "name": "",
+                "image": "",
+                "numShares": 54
+            },
+            {
+                "name": "",
+                "image": "",
+                "numShares": 78
+            }
+        ]
+    }
 }
