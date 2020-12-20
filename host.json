@@ -98,8 +98,7 @@
             }
         ]
     },
-
-    "sticker_usage" :{
+    "sticker_usage": {
         "type": "sticker_usage",
         "title": {
             "en": "You made people laugh by sharing 98 stickers",
@@ -140,5 +139,29 @@
                 "numShares": 55
             }
         ]
+    },
+    "typing_summary": {
+        "type": "typing_summary",
+        "title": {
+            "en": "You spent more than __MINUTES__ minutes texting on your favuroite apps"
+        },
+        "caption": {
+            "en": "That's enoguh time to make 1057 bowls of noodles"
+        },
+        "shareTitle": {
+            "en": "You spent more than __MINUTES__ minutes texting on your favuroite apps"
+        },
+        "shareCaption": {
+            "en": "That's enoguh time to make 1057 bowls of noodles"
+        },
+        "backgroundImageURL": "https://static.hollywoodreporter.com/sites/default/files/2015/03/paul_walker_furious_7_h_2015.jpg",
+        "actionTextColor": "#000000",
+        "actionButtonBackgroundColor": "#ddd",
+        "actionText": {
+            "en": "Share With Friend"
+        },
+        "logoURL": "",
+        "hashtag": "",
+        "totalTypingDuration": 3644
     }
 }
