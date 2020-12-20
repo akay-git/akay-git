@@ -24,7 +24,7 @@
             "moodCategories": [
                 {
                     "name": "Happy",
-                    "image": "",
+                    "image": "😁",
                     "backgroundColor": "yellow",
                     "maleBackgroundImageURL": "babu_rao",
                     "femaleBackgroundImageURL": "kareena",
@@ -32,7 +32,7 @@
                 },
                 {
                     "name": "Romantic",
-                    "image": "",
+                    "image": "😍",
                     "backgroundColor": "pink",
                     "maleBackgroundImageURL": "srk",
                     "femaleBackgroundImageURL": "alia",
@@ -40,7 +40,7 @@
                 },
                 {
                     "name": "Sad",
-                    "image": "",
+                    "image": "😞",
                     "backgroundColor": "",
                     "maleBackgroundImageURL": "ranbir",
                     "femaleBackgroundImageURL": "anuska",
