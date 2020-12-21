@@ -174,5 +174,27 @@
         "actionText": null,
         "logoURL": null,
         "hashtag": null
-    }
+    },
+    "head_usage":{
+        "type": "head_usage",
+        "title": {
+            "en": "Your cutest Bobble head of 2020"
+        },
+        "caption": {
+            "en": "You've got  a sweet smile"
+        },
+        "shareTitle": {
+            "en": "Your cutest Bobble head of 2020"
+        },
+        "shareCaption": {
+            "en": "You've got  a sweet smile"
+        },
+        "backgroundImageURL": "",
+        "actionTextColor": "",
+        "actionButtonBackgroundColor": "",
+        "actionText": {
+            "en": "Share With Friend"
+        },
+        "logoURL": "",
+        "hashtag": ""
 }
