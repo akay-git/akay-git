@@ -163,5 +163,16 @@
         "logoURL": "",
         "hashtag": "",
         "totalTypingDuration": 3644
+    },
+    "introduction":{
+        "type": "introduction",
+        "title": null,
+        "caption": null,
+        "backgroundImageURL": "",
+        "actionTextColor": null,
+        "actionButtonBackgroundColor": null,
+        "actionText": null,
+        "logoURL": null,
+        "hashtag": null
     }
 }
