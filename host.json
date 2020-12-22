@@ -143,22 +143,27 @@
     "typing_summary": {
         "type": "typing_summary",
         "title": {
-            "en": "You spent more than __MINUTES__ minutes texting on your favuroite apps"
+            "en": "You spent more than __MINUTES__ minutes texting on your favuroite apps",
+            "hi": "आपने 98 स्टिकर साझा करके लोगों को हँसाया"
         },
         "caption": {
-            "en": "That's enoguh time to make 1057 bowls of noodles"
+            "en": "That's enoguh time to make 1057 bowls of noodles",
+            "hi": "आपने 98 स्टिकर साझा करके लोगों को हँसाया"
         },
         "shareTitle": {
-            "en": "You spent more than __MINUTES__ minutes texting on your favuroite apps"
+            "en": "You spent more than __MINUTES__ minutes texting on your favuroite apps",
+            "hi": "आपने 98 स्टिकर साझा करके लोगों को हँसाया"
         },
         "shareCaption": {
-            "en": "That's enoguh time to make 1057 bowls of noodles"
+            "en": "That's enoguh time to make 1057 bowls of noodles",
+            "hi": "आपने 98 स्टिकर साझा करके लोगों को हँसाया"
         },
         "backgroundImageURL": "https://static.hollywoodreporter.com/sites/default/files/2015/03/paul_walker_furious_7_h_2015.jpg",
         "actionTextColor": "#000000",
         "actionButtonBackgroundColor": "#ddd",
         "actionText": {
-            "en": "Share With Friend"
+            "en": "Share With Friend",
+            "hi": "आपने 98 स्टिकर साझा करके लोगों को हँसाया"
         },
         "logoURL": "",
         "hashtag": "",
