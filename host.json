@@ -202,5 +202,43 @@
         },
         "logoURL": "",
         "hashtag": ""
-    }
+    },
+    "yearly_card":[
+        {
+          "type": "year_review",
+          "title": {
+            "en": "2020: Bobble & Me"
+          },
+          "description": {
+            "en": "See how you expressed yourself in 2020"
+          },
+          "backgroundImageURL": "https://assets.bobblekeyboard.net/configs/my-keyboard-expression-stats/year-review-stats-bg.png"
+        },
+        {
+          "type": "mood_index",
+          "title": {
+            "en": "What's My Mood?"
+          },
+          "description": null,
+          "backgroundImageURL": "https://assets.bobblekeyboard.net/configs/my-keyboard-expression-stats/what-my-mood-stats-bg.png"
+        }
+     ],
+     "random_facts":[
+         {
+
+		"en": "This is random fact 1",
+		"hi": "यह यादृच्छिक तथ्य 1 है"
+	},
+	{
+		"en": "This is fact is random and has mediummmm lengthhh",
+		"hi": "यह तथ्य यादृच्छिक है और इसमें मध्यम लंबाई की लंबाई है"
+	},
+	{
+		"en": "This is fact is randommmmmmmmm and its length has been increased to check UI",
+		"hi": "यह तथ्य यह है कि रैंडममममम है और यूआई की जांच करने के लिए इसकी लंबाई बढ़ा दी गई है"
+	}
+     ]
+     
+        
+    
 }
