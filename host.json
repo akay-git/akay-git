@@ -1,244 +1,45 @@
 {
-    "mood_index": {
-        "type": "mood_index",
-        "title": {
-            "en": "This is how you mood swinged throgh 2020"
-        },
-        "caption": {
-            "en": "50% Happy, 25% Romantic & 25% Sad"
-        },
-        "shareTitle": {
-            "en": "This is how you mood swinged throgh 2020"
-        },
-        "shareCaption": {
-            "en": "50% Happy, 25% Romantic & 25% Sad"
-        },
-        "backgroundImageURL": "",
-        "actionTextColor": "",
-        "actionButtonBackgroundColor": "",
-        "actionText": {
-            "en": "Share With Friend"
-        },
-        "logoURL": "",
-        "hashtag": "",
-        "moodCategories": [
-            {
-                "name": "Happy",
-                "image": "😁",
-                "backgroundColor": "yellow",
-                "maleBackgroundImageURL": "babu_rao",
-                "femaleBackgroundImageURL": "kareena",
-                "percentage": 25
-            },
-            {
-                "name": "Romantic",
-                "image": "😍",
-                "backgroundColor": "pink",
-                "maleBackgroundImageURL": "srk",
-                "femaleBackgroundImageURL": "alia",
-                "percentage": 80
-            },
-            {
-                "name": "Sad",
-                "image": "😞",
-                "backgroundColor": "",
-                "maleBackgroundImageURL": "ranbir",
-                "femaleBackgroundImageURL": "anuska",
-                "percentage": 70
-            }
-        ]
-    },
-    "emoji_usage": {
-        "type": "emoji_usage",
-        "title": {
-            "en": "You spread happniess by sharing 234 emojis"
-        },
-        "caption": {
-            "en": "Your Top Emojis of 2020"
-        },
-        "shareTitle": {
-            "en": "You spread happniess by sharing 234 emojis"
-        },
-        "shareCaption": {
-            "en": "Your Top Emojis of 2020"
-        },
-        "backgroundImageURL": "",
-        "actionTextColor": "",
-        "actionButtonBackgroundColor": "",
-        "actionText": {
-            "en": "Share With Friend"
-        },
-        "logoURL": "",
-        "hashtag": "",
-        "emojis": [
-            {
-                "name": "",
-                "image": "😎",
-                "numShares": 23
-            },
-            {
-                "name": "",
-                "image": "😈",
-                "numShares": 23
-            },
-            {
-                "name": "",
-                "image": "😉",
-                "numShares": 43
-            },
-            {
-                "name": "",
-                "image": "😘",
-                "numShares": 54
-            },
-            {
-                "name": "",
-                "image": "😢",
-                "numShares": 78
-            }
-        ]
-    },
-    "sticker_usage": {
-        "type": "sticker_usage",
-        "title": {
-            "en": "You made people laugh by sharing 98 stickers",
-            "hi": "आपने 98 स्टिकर साझा करके लोगों को हँसाया"
-        },
-        "caption": {
-            "en": "Your Top Stickers of 2020"
-        },
-        "shareTitle": {
-            "en": "You made people laugh by sharing 98 stickers"
-        },
-        "shareCaption": {
-            "en": "Your Top Stickers of 2020"
-        },
-        "backgroundImageURL": "",
-        "actionTextColor": "",
-        "actionButtonBackgroundColor": "",
-        "actionText": {
-            "en": "Share With Friend"
-        },
-        "logoURL": "",
-        "hashtag": "",
-        "stickers": [
-            {
-                "id": 45,
-                "numShares": 55
-            },
-            {
-                "id": 46,
-                "numShares": 55
-            },
-            {
-                "id": 47,
-                "numShares": 55
-            },
-            {
-                "id": 48,
-                "numShares": 55
-            }
-        ]
-    },
-    "typing_summary": {
-        "type": "typing_summary",
-        "title": {
-            "en": "<div><span>You spent more than </span><span style=\"font-weight: 500; font-size: 24px;\">3644</span><span>minutes texting on your favuriote apps</span></div>",
-            "hi": "आपने 98 स्टिकर साझा करके लोगों को हँसाया"
-        },
-        "caption": {
-            "en": "That's enoguh time to make 1057 bowls of noodles",
-            "hi": "आपने 98 स्टिकर साझा करके लोगों को हँसाया"
-        },
-        "shareTitle": {
-            "en": "You spent more than __MINUTES__ minutes texting on your favuroite apps",
-            "hi": "आपने 98 स्टिकर साझा करके लोगों को हँसाया"
-        },
-        "shareCaption": {
-            "en": "That's enoguh time to make 1057 bowls of noodles",
-            "hi": "आपने 98 स्टिकर साझा करके लोगों को हँसाया"
-        },
-        "backgroundImageURL": "",
-        "actionTextColor": "#000000",
-        "actionButtonBackgroundColor": "#ddd",
-        "actionText": {
-            "en": "Share With Friend",
-            "hi": "आपने 98 स्टिकर साझा करके लोगों को हँसाया"
-        },
-        "logoURL": "",
-        "hashtag": "",
-        "totalTypingDuration": 3644
-    },
-    "introduction":{
-        "type": "introduction",
-        "title": null,
-        "caption": null,
-        "backgroundImageURL": "",
-        "actionTextColor": null,
-        "actionButtonBackgroundColor": null,
-        "actionText": null,
-        "logoURL": null,
-        "hashtag": null
-    },
-    "head_usage":{
-        "type": "head_usage",
-        "title": {
-            "en": "Your cutest Bobble head of 2020"
-        },
-        "caption": {
-            "en": "You've got  a sweet smile"
-        },
-        "shareTitle": {
-            "en": "Your cutest Bobble head of 2020"
-        },
-        "shareCaption": {
-            "en": "You've got  a sweet smile"
-        },
-        "backgroundImageURL": "",
-        "actionTextColor": "",
-        "actionButtonBackgroundColor": "",
-        "actionText": {
-            "en": "Share With Friend"
-        },
-        "logoURL": "",
-        "hashtag": ""
-    },
-    "yearly_card":[
+    "prompts": [
         {
-          "type": "year_review",
-          "title": {
-            "en": "2020: Bobble & Me"
-          },
-          "description": {
-            "en": "See how you expressed yourself in 2020"
-          },
-          "backgroundImageURL": "https://assets.bobblekeyboard.net/configs/my-keyboard-expression-stats/year-review-stats-bg.png"
-        },
-        {
-          "type": "mood_index",
-          "title": {
-            "en": "What's My Mood?"
-          },
-          "description": null,
-          "backgroundImageURL": "https://assets.bobblekeyboard.net/configs/my-keyboard-expression-stats/what-my-mood-stats-bg.png"
+            "id": 2,
+            "priority": 1,
+            "brandCampaignId": null,
+            "type": "suggestionDrawer",
+            "settings": {
+                "repeatSessionCount": 5,
+                "maxCount": 100,
+                "dailyMaxCount": 20,
+                "keywords": [
+                    "new year",
+			"anil",
+			"kumar"
+                ],
+                "startTime": "09:00",
+                "endTime": "20:00",
+                "packageSets": [
+                    "messaging",
+                    "whatsapp"
+                ]
+            },
+            "actions": [
+                {
+                    "type": "autoOpenSuggestionDrawer",
+                    "metadata": {
+                        "searchString": "bhai"
+                    },
+                    "displaySettings": null,
+                    "clickTrackers": null
+                }
+            ]
         }
-     ],
-     "random_facts":[
-         {
-
-		"en": "This is random fact 1",
-		"hi": "यह यादृच्छिक तथ्य 1 है"
-	},
-	{
-		"en": "This is fact is random and has mediummmm lengthhh",
-		"hi": "यह तथ्य यादृच्छिक है और इसमें मध्यम लंबाई की लंबाई है"
-	},
-	{
-		"en": "This is fact is randommmmmmmmm and its length has been increased to check UI",
-		"hi": "यह तथ्य यह है कि रैंडममममम है और यूआई की जांच करने के लिए इसकी लंबाई बढ़ा दी गई है"
-	}
-     ]
-     
-        
-    
+    ],
+    "packageSets": {
+        "messaging": [
+            "com.whatsapp",
+            "com.instagram"
+        ],
+        "whatsapp": [
+            "com.whatsapp"
+        ]
+    }
 }
